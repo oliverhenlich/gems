@@ -27,6 +27,12 @@ grep -R foo --include '*.txt' *
 tail -100000 unimarket.performance.log | egrep "time=[[:digit:]]{3,}"
 ~~~~
 
+### Find by age
+~~~~
+find /path/to/files* -mtime +5
+The second argument, -mtime, is used to specify the number of days old that the file is. If you enter +5, it will find files older than 5 days.
+~~~~
+
 
 ## Monitoring
 ### Print response code of http request
