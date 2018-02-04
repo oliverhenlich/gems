@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gems.iml" filepath="$PROJECT_DIR$/.idea/modules/gems.iml" />
-      <module fileurl="file://$PROJECT_DIR$/java/java.iml" filepath="$PROJECT_DIR$/java/java.iml" group="java" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java/java_main.iml" filepath="$PROJECT_DIR$/.idea/modules/java/java_main.iml" group="java" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java/java_test.iml" filepath="$PROJECT_DIR$/.idea/modules/java/java_test.iml" group="java" />
-      <module fileurl="file://$PROJECT_DIR$/notes/notes.iml" filepath="$PROJECT_DIR$/notes/notes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/_ROOT.iml" filepath="$PROJECT_DIR$/.idea/modules/_ROOT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java/java.iml" filepath="$PROJECT_DIR$/.idea/modules/java/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/notes/notes.iml" filepath="$PROJECT_DIR$/.idea/modules/notes/notes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scripts/scripts.iml" filepath="$PROJECT_DIR$/.idea/modules/scripts/scripts.iml" />
     </modules>
   </component>
 </project>
