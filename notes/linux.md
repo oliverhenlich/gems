@@ -60,3 +60,10 @@ done
 ~~~~
 ping admin.nz.unimarket-staging.com | while read result; do echo $(date -u +"%F %T"): $result; done
 ~~~~
+
+## Networking
+
+### Get public ip address
+~~~~
+curl ipinfo.io/ip
+~~~~
